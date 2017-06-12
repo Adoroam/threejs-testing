@@ -12,5 +12,8 @@
     "altspace"
   ],
   "author": "Ado",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.85.2"
+  }
 }
